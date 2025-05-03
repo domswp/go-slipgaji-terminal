@@ -38,7 +38,11 @@ go run slip-gaji.go
 ```Bash
 .
 ├── go.mod
+├── go.sum
+├── License
+├── Readme.md
 └── slip-gaji.go
+
 ```
 
 ##🔖 Lisensi
