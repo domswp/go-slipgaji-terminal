@@ -1,6 +1,7 @@
 # 🧾 Slip Gaji Sederhana pakai golang dan terminal
 
-Project iseng-iseng tapi berfaedah — kamu bisa input nama pegawai, posisi, gaji pokok, dan bonus, terus dapet slip gaji yang tampil rapi di terminal. Cocok banget buat yang lagi belajar `struct`, `input`, dan formatting angka di Golang 🤓
+Project Newbie syukur syukur bisa bermanfaat
+kalian bisa input nama pegawai, posisi, gaji pokok, dan bonus, terus dapet slip gaji yang tampil rapi di terminal. Cocok banget buat yang lagi belajar `struct`, `input`, dan formatting angka di Golang 🤓
 
 ## ✨ Apa Aja yang Dipelajari?
 - Cara pakai `fmt.Scanln` buat ambil input user
